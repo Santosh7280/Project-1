@@ -1,0 +1,45 @@
+
+Github link:
+-----------
+https://github.com/NiyazulHasan/IH-JAVA-Project
+
+
+Push the project in GITHUB
+============================
+
+commands
+------
+git init 
+
+git branch --move master main
+
+git status 
+
+git add . 
+
+git commit -m "Project Notes"
+
+git remote add origin https://github.com/NiyazulHasan/IH-JAVA-Project
+
+git push -f origin main 
+
+
+Pull the project from github
+===============================
+git  init 
+
+git pull https://github.com/NiyazulHasan/IH-JAVA-Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
