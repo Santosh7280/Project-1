@@ -1,7 +1,7 @@
 
 Github link:
 -----------
-https://github.com/NiyazulHasan/IH-JAVA-Project
+https://github.com/Santosh7280/Project-1
 
 
 Push the project in GITHUB
@@ -19,7 +19,7 @@ git add .
 
 git commit -m "Project Notes"
 
-git remote add origin https://github.com/NiyazulHasan/IH-JAVA-Project
+git remote add origin https://github.com/Santosh7280/Project-1
 
 git push -f origin main 
 
@@ -28,7 +28,7 @@ Pull the project from github
 ===============================
 git  init 
 
-git pull https://github.com/NiyazulHasan/IH-JAVA-Project
+git pull https://github.com/Santosh7280/Project-1
 
 
 
