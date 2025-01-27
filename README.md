@@ -15,3 +15,5 @@ Frontend: React.js, Bootstrap
 Backend: Spring Boot, Java
 Database: MySQL
 Authentication: Spring Security
+
+For more details, visit the GitHub Repository.
