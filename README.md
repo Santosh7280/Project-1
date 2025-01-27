@@ -3,7 +3,7 @@ The Employee Management System (EMS) is a platform designed to help organization
 
 <h2>Features:</h2>
 	
-<h4>Employee CRUD Operations:</h4> Add, update, view, and delete employee records.
+`**Employee CRUD Operations:`** Add, update, view, and delete employee records.
 <h4>Search Functionality:</h4> Search employees by name, department, or role.
 <h4>Responsive User Interface:</h4> Seamless interaction through a user-friendly UI built with React.
 <h4>Data Persistence:</h4> MySQL database integration for data storage and retrieval.
