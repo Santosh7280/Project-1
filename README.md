@@ -11,9 +11,9 @@ The Employee Management System (EMS) is a platform designed to help organization
 
 <h2>Technologies Used:</h2>
 
-**Frontend:** React.js, Bootstrap
-**Backend:** Spring Boot, Java
-**Database:** MySQL
-**Authentication:** Spring Security
+**Frontend:** React.js, Bootstrap<br>
+**Backend:** Spring Boot, Java<br>
+**Database:** MySQL<br>
+**Authentication:** Spring Security<br>
 
 For more details, visit the GitHub Repository.
