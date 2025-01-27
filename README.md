@@ -11,7 +11,7 @@ Authentication: User authentication for secure access to the system.
 
 <h2>Technologies Used:</h2>
 
-<h4Frontend: React.js, Bootstrap
+<h4>Frontend: React.js, Bootstrap
 Backend: Spring Boot, Java
 Database: MySQL
 Authentication: Spring Security</h4>
