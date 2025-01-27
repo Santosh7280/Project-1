@@ -16,4 +16,4 @@ The Employee Management System (EMS) is a platform designed to help organization
 **Database:** MySQL<br>
 **Authentication:** Spring Security<br>
 
-For more details, visit the GitHub Repository.
+For more details, visit the(https://github.com/Santosh7280/Project-1/blob/main/README.md)
