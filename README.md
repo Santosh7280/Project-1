@@ -1,6 +1,6 @@
 <h1>Employee Management System<h1>
 
-The Employee Management System (EMS) is a platform designed to help organizations manage employee information efficiently. It allows HR teams to manage employee records, track performance, and handle various employee-related operations. The system is built using React, Spring Boot, and MySQL.
+<h8>The Employee Management System (EMS) is a platform designed to help organizations manage employee information efficiently. It allows HR teams to manage employee records, track performance, and handle various employee-related operations. The system is built using React, Spring Boot, and MySQL.<h8>
 
 <h3>Features:<h3>
 	
